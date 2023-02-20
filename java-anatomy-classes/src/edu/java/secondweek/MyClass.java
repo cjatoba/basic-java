@@ -1,3 +1,5 @@
+package edu.java.secondweek;
+
 public class MyClass {
 
     public static void main(String[] args) {

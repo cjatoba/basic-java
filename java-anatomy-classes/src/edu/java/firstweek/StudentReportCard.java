@@ -1,3 +1,5 @@
+package edu.java.firstweek;
+
 public class StudentReportCard {
     public static void main(String[] args) {
         int finalmedia = 7;
